@@ -1,0 +1,551 @@
+geo_accession,submission_date,last_update_date,type,tissue,organism,subject_id,disease_label,sex,mutated_pd_genes,age_at_exam,age_at_symptoms,updrs,updrs_ii,updrs_iii_score_on,updrs_iii_score_off,updrs_iv,hoehn_yahr_on,hoehn_yahr_off,moca_score
+GSM2631171,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2899, ATYPICAL_PD, Male, NONE,,53,1,4,19,0,0,2,0,21
+GSM2631309,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2872, ATYPICAL_PD, Male, NONE,,64,0,0,0,0,0,9,0,0
+GSM2631219,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2131, ATYPICAL_PD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630775,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2573, CBD, Female, NONE,,60,0,0,0,0,0,9,0,0
+GSM2631147,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2697, CBD, Female, NONE,,66,0,0,30,0,0,9,0,0
+GSM2630853,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3031, CONTROL, Male, NONE,,41,0,0,1,0,0,8,0,30
+GSM2630769,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3052, CONTROL, Female, NONE,,43,0,0,0,0,0,8,0,0
+GSM2631196,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO342, CONTROL, Male,,40,,,,,0,0,0,0,0
+GSM2631194,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO340, CONTROL, Male,,42,,,,,0,0,0,0,0
+GSM2631197,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO343, CONTROL, Male,,43,,,,,0,0,0,0,0
+GSM2631195,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO341, CONTROL, Male,,49,,,,,0,0,0,0,0
+GSM2631198,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO344, CONTROL, Male,,40,,,,,0,,,0,30
+GSM2631306,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3700, CONTROL,, NMF,,,0,0,0,0,0,0,0,0
+GSM2631162,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3685, CONTROL,, NMF,,,0,0,0,0,0,0,0,0
+GSM2631172,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3699, CONTROL,, NMF,,,0,0,0,0,0,0,0,0
+GSM2631241,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3603, CONTROL, Female, NMF,,,0,0,0,0,0,0,0,0
+GSM2631252,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B980, CONTROL, Female, NMF,,,0,0,0,0,0,0,0,0
+GSM2630927,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3601, CONTROL, Female, NMF,,,0,0,0,0,0,0,0,0
+GSM2630928,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3602, CONTROL, Female, NMF,,,0,0,0,0,0,0,0,0
+GSM2631227,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3338, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631231,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3463, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631235,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3514, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631236,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3515, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631238,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3519, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631239,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3521, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631243,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3652, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630771,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3051, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630783,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3009, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630830,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3069, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630857,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3329, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630868,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3333, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630818,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3198, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630907,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3461, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630909,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3500, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630916,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3503, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630923,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3517, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630925,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3520, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630929,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3604, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630930,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3605, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630932,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3718, CONTROL, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631221,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1591, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631230,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3453, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631232,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3493, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631234,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3510, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631237,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3516, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631240,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3522, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631242,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3651, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631248,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3717, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630899,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3462, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630905,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3459, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630906,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3460, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630917,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3504, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630922,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3513, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630924,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3518, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631298,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3663, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631300,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1342, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631301,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3686, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631304,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4025, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631305,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3654, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631310,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3668, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631312,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4027, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631152,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3687, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631153,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3692, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631158,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3667, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631159,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4020, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631161,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3653, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631163,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4026, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631165,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3657, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631167,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3671, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631175,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3665, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631176,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4022, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2631177,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3656, CONTROL,,,,,0,0,0,0,0,0,0,0
+GSM2630777,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2870, CONTROL, Female, NONE,,,0,1,0,0,0,0,0,0
+GSM2630788,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2132, CONTROL, Female, NMF,,,0,0,0,0,0,8,0,0
+GSM2631173,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3058, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,0
+GSM2630908,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3472, CONTROL, Female, PINK1,,,0,0,0,0,0,8,0,0
+GSM2630787,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2133, CONTROL, Female, NMF,,,0,1,2,0,0,8,0,0
+GSM2630790,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2134, CONTROL, Female, NMF,,,1,0,3,0,0,8,0,0
+GSM2630810,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3061, CONTROL, Female, NONE,,,0,0,0,0,1,8,0,0
+GSM2631138,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO287, CONTROL, Female, NONE,68,,,,,0,,,0,16
+GSM2631028,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO154, CONTROL, Female, NONE,82,,,,,3,,,0,18
+GSM2631287,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO251, CONTROL, Female, NONE,63,,,,,0,,,0,19
+GSM2631100,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO235, CONTROL, Male, NONE,70,,,,,0,,,0,20
+GSM2631056,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO185, CONTROL, Female, NONE,49,,,,,0,,,0,21
+GSM2631118,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO254, CONTROL, Male, NONE,58,,,,,0,,,0,21
+GSM2631025,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO150, CONTROL, Female, NONE,65,,,,,0,,,0,21
+GSM2631281,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO133, CONTROL, Male, NONE,78,,,,,4,,,0,21
+GSM2631039,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO168, CONTROL, Female, NONE,42,,,,,0,,,0,22
+GSM2631057,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO187, CONTROL, Female, NONE,67,,,,,1,,,0,22
+GSM2631110,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO245, CONTROL, Female, NONE,69,,,,,2,,,0,22
+GSM2631010,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO126, CONTROL, Female, NONE,63,,,,,0,,,0,23
+GSM2631102,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO237, CONTROL, Female, NONE,67,,,,,0,,,0,23
+GSM2631103,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO238, CONTROL, Female, NONE,67,,,,,0,,,0,23
+GSM2631017,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO141, CONTROL, Female, NONE,58,,,,,2,,,0,23
+GSM2631143,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO301, CONTROL, Female, NONE,35,,,,,0,,,0,24
+GSM2631024,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO149, CONTROL, Female, NONE,58,,,,,0,,,0,24
+GSM2631091,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO225, CONTROL, Female, NONE,59,,,,,0,,,0,24
+GSM2631275,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO122, CONTROL, Male, NONE,74,,,,,0,,,0,24
+GSM2631061,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO191, CONTROL, Male, NONE,60,,,,,2,,,0,24
+GSM2631273,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO93, CONTROL, Male, NONE,52,,,,,0,,,0,25
+GSM2631027,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO153, CONTROL, Male, NONE,62,,,,,0,,,0,25
+GSM2631101,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO236, CONTROL, Female, NONE,65,,,,,0,,,0,25
+GSM2631043,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO172, CONTROL, Male, NONE,67,,,,,0,,,0,25
+GSM2631125,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO262, CONTROL, Female, NONE,79,,,,,0,,,0,25
+GSM2630980,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO73, CONTROL, Female, NONE,58,,,,,1,,,0,25
+GSM2631031,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO159, CONTROL, Female, NONE,79,,,,,2,,,0,25
+GSM2631130,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO270, CONTROL, Female, NONE,51,,,,,0,,,0,26
+GSM2631065,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO197, CONTROL, Female, NONE,55,,,,,0,,,0,26
+GSM2631105,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO240, CONTROL, Male, NONE,56,,,,,0,,,0,26
+GSM2631032,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO160, CONTROL, Female, NONE,57,,,,,0,,,0,26
+GSM2631082,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO214, CONTROL, Female, NONE,57,,,,,0,,,0,26
+GSM2631029,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO155, CONTROL, Female, NONE,58,,,,,0,,,0,26
+GSM2631109,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO244, CONTROL, Female, NONE,58,,,,,0,,,0,26
+GSM2631005,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO116, CONTROL, Female, NONE,59,,,,,0,,,0,26
+GSM2630961,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO48, CONTROL, Male, NONE,59,,,,,0,,,0,26
+GSM2631280,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO131, CONTROL, Female, NONE,62,,,,,0,,,0,26
+GSM2631289,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO271, CONTROL, Female, NONE,62,,,,,0,,,0,26
+GSM2631131,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO272, CONTROL, Female, NONE,63,,,,,0,,,0,26
+GSM2630990,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO96, CONTROL, Female, NONE,65,,,,,0,,,0,26
+GSM2631126,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO264, CONTROL, Female, NONE,66,,,,,0,,,0,26
+GSM2631047,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO176, CONTROL, Female, NONE,71,,,,,0,,,0,26
+GSM2631180,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO306, CONTROL, Female, NONE,75,,,,,1,,,0,26
+GSM2631049,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO178, CONTROL, Female, NONE,59,,,,,2,,,0,26
+GSM2631276,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO123, CONTROL, Female, NONE,70,,,,,2,,,0,26
+GSM2631038,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO167, CONTROL, Female, NONE,71,,,,,2,,,0,26
+GSM2631041,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO170, CONTROL, Female, NONE,58,,,,,0,,,0,27
+GSM2631111,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO246, CONTROL, Female, NONE,61,,,,,0,,,0,27
+GSM2631059,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO189, CONTROL, Female, NONE,65,,,,,0,,,0,27
+GSM2631079,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO211, CONTROL, Male, NONE,67,,,,,0,,,0,27
+GSM2631012,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO132, CONTROL, Male, NONE,71,,,,,0,,,0,27
+GSM2631085,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO217, CONTROL, Female, NONE,63,,,,,1,,,0,27
+GSM2631077,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO209, CONTROL, Female, NONE,62,,,,,2,,,0,27
+GSM2630761,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3015, CONTROL, Female, NONE,,,0,0,1,0,0,8,0,27
+GSM2631022,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO147, CONTROL, Male, NONE,50,,,,,0,,,0,28
+GSM2631011,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO130, CONTROL, Male, NONE,57,,,,,0,,,0,28
+GSM2631136,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO282, CONTROL, Female, NONE,60,,,,,0,,,0,28
+GSM2630971,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO59, CONTROL, Female, NONE,61,,,,,0,,,0,28
+GSM2631279,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO129, CONTROL, Female, NONE,62,,,,,0,,,0,28
+GSM2631137,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO286, CONTROL, Female, NONE,62,,,,,0,,,0,28
+GSM2631185,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO313, CONTROL, Female, NONE,67,,,,,0,,,0,28
+GSM2631277,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO124, CONTROL, Female, NONE,69,,,,,0,,,0,28
+GSM2631072,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO204, CONTROL, Female, NONE,69,,,,,0,,,0,28
+GSM2631075,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO207, CONTROL, Female, NONE,70,,,,,0,,,0,28
+GSM2631026,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO152, CONTROL, Female, NONE,71,,,,,0,,,0,28
+GSM2631064,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO195, CONTROL, Female, NONE,72,,,,,0,,,0,28
+GSM2631191,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO335, CONTROL, Female, NONE,57,,,,,1,,,0,28
+GSM2631084,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO216, CONTROL, Female, NONE,59,,,,,1,,,0,28
+GSM2631284,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO192, CONTROL, Female, NONE,61,,,,,1,,,0,28
+GSM2631042,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO171, CONTROL, Female, NONE,69,,,,,1,,,0,28
+GSM2631274,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO121, CONTROL, Female, NONE,78,,,,,1,,,0,28
+GSM2630774,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3004, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,28
+GSM2630888,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3367, CONTROL, Male, NONE,,,0,0,1,0,0,8,0,28
+GSM2630910,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3501, CONTROL, Male, NONE,,,0,0,1,0,0,8,0,28
+GSM2631001,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO112, CONTROL, Male, NONE,39,,,,,0,,,0,29
+GSM2631015,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO137, CONTROL, Female, NONE,51,,,,,0,,,0,29
+GSM2630993,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO99, CONTROL, Male, NONE,53,,,,,0,,,0,29
+GSM2631046,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO175, CONTROL, Female, NONE,57,,,,,0,,,0,29
+GSM2631112,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO247, CONTROL, Female, NONE,58,,,,,0,,,0,29
+GSM2631142,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO296, CONTROL, Female, NONE,58,,,,,0,,,0,29
+GSM2630984,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO87, CONTROL, Female, NONE,59,,,,,0,,,0,29
+GSM2631020,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO145, CONTROL, Female, NONE,60,,,,,0,,,0,29
+GSM2631033,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO161, CONTROL, Female, NONE,60,,,,,0,,,0,29
+GSM2631083,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO215, CONTROL, Male, NONE,60,,,,,0,,,0,29
+GSM2631076,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO208, CONTROL, Male, NONE,61,,,,,0,,,0,29
+GSM2631068,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO200, CONTROL, Female, NONE,63,,,,,0,,,0,29
+GSM2631037,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO166, CONTROL, Female, NONE,65,,,,,0,,,0,29
+GSM2631272,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO79, CONTROL, Male, NONE,74,,,,,0,,,0,29
+GSM2631278,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO127, CONTROL, Male, NONE,75,,,,,0,,,0,29
+GSM2631123,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO259, CONTROL, Female, NONE,69,,,,,1,,,0,29
+GSM2631073,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO205, CONTROL, Male, NONE,67,,,,,2,,,0,29
+GSM2631135,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO280, CONTROL, Male, NONE,59,,,,,3,,,0,29
+GSM2630855,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3293, CONTROL, Male, NONE,,,1,0,4,0,0,0,0,29
+GSM2630758,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3012, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,29
+GSM2630800,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3064, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,29
+GSM2630864,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3341, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,29
+GSM2630863,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3330, CONTROL, Male, NONE,,,0,0,0,0,0,8,0,29
+GSM2630865,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3342, CONTROL, Male, NONE,,,0,0,0,0,0,8,0,29
+GSM2630866,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3343, CONTROL, Male, NONE,,,0,0,0,0,0,8,0,29
+GSM2630897,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3384, CONTROL, Female, NONE,,,1,0,0,0,0,8,0,29
+GSM2630869,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3334, CONTROL, Male, NONE,,,0,1,0,0,0,8,0,29
+GSM2630789,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2135, CONTROL, Male, NMF,,,0,0,1,0,0,8,0,29
+GSM2630872,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3339, CONTROL, Female, NONE,,,0,0,1,0,0,8,0,29
+GSM2630877,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3345, CONTROL, Female, NONE,,,0,0,1,0,0,8,0,29
+GSM2630880,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3350, CONTROL, Female, NONE,,,1,1,1,0,0,8,0,29
+GSM2630840,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3082, CONTROL, Female, NONE,,,0,0,2,0,0,8,0,29
+GSM2630799,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3068, CONTROL, Female, NONE,,,1,1,2,0,0,8,0,29
+GSM2630778,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3016, CONTROL, Male, NONE,,,2,1,4,0,0,8,0,29
+GSM2630878,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3346, CONTROL, Male, NONE,,,0,0,6,0,0,8,0,29
+GSM2630876,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3361, CONTROL, Female, NONE,,,0,0,0,0,1,8,0,29
+GSM2630965,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO52, CONTROL, Female, NONE,39,,,,,0,,,0,30
+GSM2630958,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO45, CONTROL, Female, NONE,40,,,,,0,,,0,30
+GSM2631054,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO183, CONTROL, Female, NONE,45,,,,,0,,,0,30
+GSM2631121,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO257, CONTROL, Male, NONE,51,,,,,0,,,0,30
+GSM2631044,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO173, CONTROL, Female, NONE,54,,,,,0,,,0,30
+GSM2631074,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO206, CONTROL, Male, NONE,56,,,,,0,,,0,30
+GSM2631080,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO212, CONTROL, Female, NONE,58,,,,,0,,,0,30
+GSM2631179,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO223, CONTROL, Male, NONE,58,,,,,0,,,0,30
+GSM2631181,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO308, CONTROL, Male, NONE,58,,,,,0,,,0,30
+GSM2631132,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO273, CONTROL, Female, NONE,59,,,,,0,,,0,30
+GSM2631122,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO258, CONTROL, Male, NONE,59,,,,,0,,,0,30
+GSM2631295,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO293, CONTROL, Female, NONE,60,,,,,0,,,0,30
+GSM2631040,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO169, CONTROL, Female, NONE,60,,,,,0,,,0,30
+GSM2631116,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO252, CONTROL, Female, NONE,60,,,,,0,,,0,30
+GSM2631283,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO186, CONTROL, Female, NONE,61,,,,,0,,,0,30
+GSM2630999,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO108, CONTROL, Female, NONE,61,,,,,0,,,0,30
+GSM2631023,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO148, CONTROL, Female, NONE,62,,,,,0,,,0,30
+GSM2631058,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO188, CONTROL, Female, NONE,62,,,,,0,,,0,30
+GSM2631081,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO213, CONTROL, Female, NONE,63,,,,,0,,,0,30
+GSM2631140,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO294, CONTROL, Female, NONE,64,,,,,0,,,0,30
+GSM2631045,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO174, CONTROL, Female, NONE,69,,,,,0,,,0,30
+GSM2631016,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO139, CONTROL, Female, NONE,70,,,,,0,,,0,30
+GSM2631070,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO202, CONTROL, Female, NONE,72,,,,,0,,,0,30
+GSM2631133,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO275, CONTROL, Female, NONE,72,,,,,0,,,0,30
+GSM2631055,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO184, CONTROL, Male, NONE,62,,,,,1,,,0,30
+GSM2630974,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO63, CONTROL, Male, NONE,75,,,,,2,,,0,30
+GSM2630812,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3017, CONTROL, Male, NONE,,,0,0,0,0,0,0,0,30
+GSM2630780,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3002, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630816,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3071, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630871,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3337, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630873,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3344, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630874,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3358, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630881,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3355, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630896,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3382, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630913,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3479, CONTROL, Female, NONE,,,0,0,0,0,0,8,0,30
+GSM2630784,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3014, CONTROL, Male, NONE,,,0,0,0,0,0,8,0,30
+GSM2630843,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3084, CONTROL, Male, NONE,,,0,0,0,0,0,8,0,30
+GSM2630884,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3362, CONTROL, Male, NONE,,,0,0,0,0,0,8,0,30
+GSM2631149,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3360, CONTROL, Male, NONE,,,0,0,0,0,0,8,0,30
+GSM2630882,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3356, CONTROL, Female, NONE,,,1,0,0,0,0,8,0,30
+GSM2630883,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3357, CONTROL, Male, NONE,,,1,0,0,0,0,8,0,30
+GSM2630885,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3372, CONTROL, Male, NONE,,,1,0,0,0,0,8,0,30
+GSM2630912,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3478, CONTROL, Male, NONE,,,2,0,0,0,0,8,0,30
+GSM2630861,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3369, CONTROL, Female, NONE,,,0,1,0,0,0,8,0,30
+GSM2630879,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3349, CONTROL, Male, NONE,,,0,0,1,0,0,8,0,30
+GSM2630785,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3001, CONTROL, Male, NONE,,,0,0,2,0,0,8,0,30
+GSM2630803,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3013, CONTROL, Female, NONE,,,0,0,3,0,0,8,0,30
+GSM2630779,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3019, CONTROL, Female, NONE,,,1,1,3,0,0,8,0,30
+GSM2630772,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3011, CONTROL, Male, NONE,,,0,0,2,0,1,8,0,30
+GSM2630875,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3359, DRD, Female, NONE,,12,1,8,11,0,0,9,0,27
+GSM2630767,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3066, DRD, Female, NONE,,26,0,3,0,0,0,9,0,0
+GSM2631145,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1767, DRD, Female, NONE,,,0,0,0,0,0,9,0,0
+GSM2631303,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4106, DRD-DYT5,,,,,0,0,0,0,0,0,0,0
+GSM2631308,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4105, DRD-DYT5,,,,,0,0,0,0,0,0,0,0
+GSM2631311,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4104, DRD-DYT5,,,,,0,0,0,0,0,0,0,0
+GSM2630832,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3079, GENETIC_UNAFFECTED, Female, ATP13A2+ LRRK2,,,0,0,0,0,0,0,0,0
+GSM2631302,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3669, GENETIC_UNAFFECTED,, LRRK2,,,0,0,0,0,0,0,0,0
+GSM2631307,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3872, GENETIC_UNAFFECTED,, LRRK2,,,0,0,0,0,0,0,0,0
+GSM2630919,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3508, GENETIC_UNAFFECTED,, NONE,,,0,0,0,0,0,0,0,0
+GSM2631222,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3056, GENETIC_UNAFFECTED, Female, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2630933,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B27, GENETIC_UNAFFECTED, Female, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2630934,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B28, GENETIC_UNAFFECTED, Female, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2630935,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B29, GENETIC_UNAFFECTED, Female, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2631250,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B25, GENETIC_UNAFFECTED, Male, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2630936,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B32, GENETIC_UNAFFECTED, Male, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2630937,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B36, GENETIC_UNAFFECTED, Male, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2630926,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3600, GENETIC_UNAFFECTED, Male, PINK1,,,0,0,0,0,0,0,0,0
+GSM2630833,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3085, GENETIC_UNAFFECTED, Female, LRRK2,,,0,0,2,0,0,0,0,25
+GSM2630920,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3509, GENETIC_UNAFFECTED, Male, NONE,,,0,0,0,0,0,0,0,28
+GSM2630844,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2125, GENETIC_UNAFFECTED, Male, PINK1,,,0,0,2,0,0,0,0,28
+GSM2630834,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3086, GENETIC_UNAFFECTED, Male, LRRK2,,,0,0,3,0,0,0,0,28
+GSM2630847,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2150, GENETIC_UNAFFECTED, Female, PINK1,,,0,0,0,0,0,0,0,29
+GSM2631217,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2130, GENETIC_UNAFFECTED, Male, PINK1,,,0,0,0,0,0,0,0,29
+GSM2630848,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2152, GENETIC_UNAFFECTED, Male, PINK1,,,0,0,1,0,0,0,0,29
+GSM2630798,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3054, GENETIC_UNAFFECTED, Male, PINK1,,,1,0,0,0,0,8,0,29
+GSM2630849,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2153, GENETIC_UNAFFECTED, Male, PINK1,,,0,0,0,0,0,0,0,30
+GSM2631229,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3365, GENETIC_UNAFFECTED, Female, PINK1,,,0,0,0,0,0,8,0,30
+GSM2631226,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3292, GPD, Male, ATP13A2,,10,6,35,51,0,0,5,0,0
+GSM2631202,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO349, GPD, Female, PARKIN,42,20,3,10,,28,12,,3,27
+GSM2631062,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO193, GPD, Female, PARKIN,45,26,5,18,,50,14,,4,30
+GSM2631206,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO361, GPD, Male, PARKIN,48,26,,,1,,,1,,
+GSM2631205,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO359, GPD, Male, PARKIN,62,28,2,10,38,,10,3,,28
+GSM2631201,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO347, GPD, Female, PARKIN,58,30,0,2,8,,0,3,,28
+GSM2631207,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO363, GPD, Female, PARKIN,66,30,2,14,37,,6,3,,30
+GSM2631193,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO339, GPD, Female, LRRK2,42,31,0,0,0,0,0,0,0,0
+GSM2630955,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO42, GPD, Male, PARKIN,36,33,0,2,10,,0,1,,29
+GSM2631203,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO351, GPD, Female, PARKIN,50,36,5,1,4,,4,1,,24
+GSM2630811,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3034, GPD, Male, PARKIN,,36,1,5,5,0,0,2.5,0,27
+GSM2631282,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO136, GPD, Female, PARKIN,42,37,2,5,11,,0,2,,27
+GSM2631063,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO194, GPD, Female, PARKIN,39,37,6,6,12,,2,1.5,,29
+GSM2631141,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO295, GPD, Female, PINK1,50,37,1,6,13,,4,2,,30
+GSM2630946,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO18, GPD, Male, PARKIN,55,38,3,6,15,,7,2,,23
+GSM2631294,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO292, GPD, Male, PARKIN,48,38,2,7,9,,6,2,,30
+GSM2630845,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2123, GPD, Male, PINK1,,39,2,12,18,0,1,9,0,0
+GSM2631255,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO7, GPD, Male, LRRK2,49,39,3,26,19,,9,2,5,
+GSM2630809,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3029, GPD, Female, ATP13A2,,41,1,15,44,0,8,3,0,30
+GSM2631018,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO143, GPD, Male, LRRK2/PARKIN,47,44,0,0,18,,0, ND, ND, ND
+GSM2630987,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO92, GPD, Male, LRRK2,67,45,6,23,28,,6, ND, ND,22
+GSM2630851,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2126, GPD, Female, PINK1,,47,3,14,24,0,4,3,0,0
+GSM2630996,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO102, GPD, Male, LRRK2,57,51,0,0,5,,0,2,,28
+GSM2630796,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2124, GPD, Female, PINK1,,53,3,15,21,0,2,2.5,0,0
+GSM2631292,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO283, GPD, Female, LRRK2,63,53,3,6,16,,7,2.5,,27
+GSM2630887,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3364, GPD, Male, PINK1,,55,0,10,17,0,3,9,0,30
+GSM2630819,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3200, GPD, Female, LRRK2,,57,3,5,8,0,2,1,0,25
+GSM2630850,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2122, GPD, Female, PINK1,,61,4,10,20,0,1,2,0,0
+GSM2631069,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO201, GPD, Male, LRRK2,69,64,2,10,,17,1,,2.5,21
+GSM2630820,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3207, GPD, Female, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2631251,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, B45, GPD, Male, PARKIN,,,0,0,0,0,0,0,0,0
+GSM2630782,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1703, GPD, Female, PINK1,,,0,0,0,0,0,0,0,0
+GSM2630858,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3287, GPD, Male, ATP13A2,,,0,0,8,0,0,0,0,0
+GSM2630786,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2151, GPD, Male, PINK1,,,4,1,9,0,0,1.5,0,0
+GSM2630846,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2121, GPD, Male, PINK1,,,0,0,0,0,0,0,0,27
+GSM2631218,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2128, GPD, Male, PINK1,,,0,0,1,0,0,0,0,28
+GSM2630797,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2149, GPD, Female, PINK1,,,0,0,1,0,0,0,0,29
+GSM2631228,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3348, GPD, Male, SNCA,,,1,3,3,0,0,8,0,29
+GSM2630860,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3291, GPD, Female, ATP13A2,,,1,0,2,0,0,0,0,30
+GSM2630859,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3290, GPD, Male, ATP13A2,,,0,0,3,0,0,0,0,30
+GSM2630852,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2127, GPD, Male, PINK1,,,0,0,10,0,0,1.5,0,30
+GSM2631088,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO221, HD, Male, NONE,39,30,0,0,0,0,0,0,0,0
+GSM2631087,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO219, HD, Female, NONE,42,32,0,0,0,0,0,0,0,0
+GSM2631139,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO288, HD, Female, NONE,45,35,0,0,0,0,0,0,0,0
+GSM2630952,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO38, HD, Female, NONE,50,42,0,0,0,0,0,0,0,0
+GSM2631285,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO220, HD, Female, NONE,49,44,0,0,0,0,0,0,0,0
+GSM2630953,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO39, HD, Female, NONE,54,47,0,0,0,0,0,0,0,0
+GSM2631086,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO218, HD, Female, NONE,65,48,0,0,0,0,0,0,0,0
+GSM2631270,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO62, HD, Male, NONE,54,50,0,0,0,0,0,0,0,0
+GSM2630962,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO49, HD, Female, NONE,60,50,0,0,0,0,0,0,0,0
+GSM2630963,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO50, HD, Female, NONE,66,50,0,0,0,0,0,0,0,0
+GSM2630954,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO40, HD, Male, NONE,60,52,0,0,0,0,0,0,0,0
+GSM2631000,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO110, HD, Male, NONE,67,58,0,0,0,0,0,0,0,0
+GSM2631034,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO162, HD, Female, NONE,65,60,0,0,0,0,0,0,0,0
+GSM2631288,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO265, HD, Male, NONE,30,,0,0,0,0,0,0,0,0
+GSM2631092,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO226, HD, Female, NONE,50,,0,0,0,0,0,0,0,0
+GSM2631286,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO234, HD, Male, NONE,36,,0,0,0,0,0,0,0,0
+GSM2631113,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO248, HD, Male, NONE,42,,0,0,0,0,0,0,0,0
+GSM2631098,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO232, HD, Female, NONE,55,,0,0,0,0,0,0,0,0
+GSM2631093,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO227, HD, Male, NONE,58,,0,0,0,0,0,0,0,0
+GSM2630768,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3028, IPD, Female, NONE,,33,0,15,39,0,0,2.5,0,29
+GSM2630989,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO95, IPD, Male, NONE,42,33,8,16,22,,5, ND, ND,29
+GSM2631127,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO266, IPD, Male, NONE,39,35,0,7,,12,1,,1,29
+GSM2631258,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO24, IPD, Female, NONE,42,36,1,5,6,,1,1,,29
+GSM2630802,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3039, IPD, Female, NONE,,36,2,21,21,0,10,2.5,0,30
+GSM2630770,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3040, IPD, Male, NONE,,37,0,16,51,0,12,3,0,26
+GSM2630854,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2696, IPD, Female, NONE,,37,2,1,7,0,0,1,0,29
+GSM2630801,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3030, IPD, Female, NONE,,37,1,14,20,0,0,3,0,30
+GSM2630983,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO86, IPD, Female, NONE,51,38,0,20,11,,11,2,, ND
+GSM2630914,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3481, IPD, Male, NONE,,39,0,1,12,0,0,1,0,28
+GSM2630997,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO103, IPD, Male, NONE,59,40,3,13,28,,1,2,,25
+GSM2631188,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO319, IPD, Female, NONE,50,40,1,9,9,,7,2,,30
+GSM2630964,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO51, IPD, Male, NONE,44,41,0,11,,19,0,,1,26
+GSM2630945,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO17, IPD, Female, NONE,45,41,4,4,17,,1,1,,28
+GSM2631119,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO255, IPD, Female, NONE,42,41,6,12,24, N,5,1,,28
+GSM2631124,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO260, IPD, Female, NONE,42,41,8,9,12,,3,1,,30
+GSM2630806,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3020, IPD, Male, NONE,,42,0,6,22,0,2,2.5,0,28
+GSM2630921,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3512, IPD, Male, NONE,,42,3,18,40,0,0,3,0,30
+GSM2630972,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO60, IPD, Male, NONE,48,43,0,5,13,,0,1,,28
+GSM2630807,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3050, IPD, Female, NONE,,43,4,10,15,0,1,2.5,0,30
+GSM2631108,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO243, IPD, Male, NONE,60,43,6,8,6,,3,2,,30
+GSM2630988,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO94, IPD, Male, NONE,57,43,4,9,27,,0,2,, ND
+GSM2630992,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO98, IPD, Female, NONE,58,43,4,6,7,,6,2.5,, ND
+GSM2631263,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO32, IPD, Female, NONE,47,44,0,2,10,,2,1,,28
+GSM2630823,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3067, IPD, Female, NONE,,44,7,17,24,0,7,3,0,29
+GSM2631002,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO113, IPD, Male, NONE,49,44,2,13,,27,8,,1.5,29
+GSM2630949,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO23, IPD, Female, NONE,54,44,3,17,42,,11,3,,30
+GSM2631254,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO6, IPD, Male, NONE,54,45,0,7,25,,0,2,,24
+GSM2631050,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO179, IPD, Female, NONE,58,45,5,8,,44,10,,2.5,25
+GSM2631052,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO181, IPD, Female, NONE,52,45,0,4,20,,0,2,,26
+GSM2630835,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3222, IPD, Female, NONE,,45,3,5,22,0,3,2.5,0,29
+GSM2631290,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO274, IPD, Male, NONE,47,45,0,7,15,,1,2,,29
+GSM2630994,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO100, IPD, Female, NONE,49,46,0,6,19,,0, ND, ND,26
+GSM2630975,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO64, IPD, Female, NONE,47,46,9,20,34,,10,2.5,,26
+GSM2631021,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO146, IPD, Male, NONE,49,46,1,18,,19,1,,2,29
+GSM2630825,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3112, IPD, Female, NONE,,46,0,12,12,0,2,2,0,30
+GSM2630821,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3098, IPD, Female, NONE,,46,1,0,9,0,0,9,0,30
+GSM2631297,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO303, IPD, Male, NONE,50,46,0,6,2,,2,1,,30
+GSM2630978,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO71, IPD, Male, NONE,49,47,2,1,5,,2,1,,27
+GSM2631114,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO249, IPD, Female, NONE,52,47,4,10,13,,3,1,,28
+GSM2631117,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO253, IPD, Male, NONE,50,47,1,3,,9,3,,1,30
+GSM2631260,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO28, IPD, Female, NONE,54,47,1,7,16,,1,1,,30
+GSM2631200,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO346, IPD, Female,,51,47,,,,18,,,1,
+GSM2631096,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO230, IPD, Male, NONE,53,49,3,15,12,,9,1,,25
+GSM2631257,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO21, IPD, Female, NONE,57,49,4,11,,23,4,,2.5,30
+GSM2631003,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO114, IPD, Female, NONE,69,50,0,15,31,,4,2.5,,26
+GSM2631190,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO322, IPD, Female, NONE,53,50,1,8,24,,1,2,,28
+GSM2630985,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO88, IPD, Female, NONE,58,50,7,7,6,,1,1,,29
+GSM2631120,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO256, IPD, Female, NONE,59,50,1,11,8, N,5,1,,29
+GSM2631030,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO158, IPD, Female, NONE,52,51,1,7,15,,2,1,,25
+GSM2631095,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO229, IPD, Female, NONE,60,51,1,3,4,,3,1,,26
+GSM2631256,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO16, IPD, Female, NONE,63,51,1,17,,33,13,3,4,28
+GSM2630837,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3261, IPD, Female, NONE,,51,2,9,26,0,3,3,0,29
+GSM2630940,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO10, IPD, Female, NONE,58,51,2,2,8,,3,1,,30
+GSM2630805,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L409, IPD, Male, NONE,,52,6,33,49,0,1,9,0,0
+GSM2631253,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO5, IPD, Male, NONE,58,52,1,13,17,,0,2,,30
+GSM2630986,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO90, IPD, Male, NONE,59,53,3,4,24,,0,2,,27
+GSM2631009,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO125, IPD, Male, NONE,54,53,7,12,14,,2,1,,28
+GSM2630944,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO15, IPD, Female, NONE,61,53,2,13,26,,10,2.5,,29
+GSM2631225,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3258, IPD, Male, NONE,,54,0,0,0,0,0,9,0,0
+GSM2631014,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO135, IPD, Male, NONE,60,54,0,11,14,,2,2,,27
+GSM2631071,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO203, IPD, Male, NONE,64,54,6,10,,37,1,,2,29
+GSM2630842,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3077, IPD, Female, NONE,,55,0,3,0,0,0,2,0,0
+GSM2630795,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2561, IPD, Female, NONE,,55,0,0,28,0,0,3,0,0
+GSM2630773,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L128, IPD, Male, NONE,,55,2,18,32,0,2,3,0,0
+GSM2630759,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2838, IPD, Male, NONE,,55,3,6,18,0,1,9,0,0
+GSM2630947,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO20, IPD, Male, NONE,56,55,0,3,12,,0,1,,27
+GSM2630892,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3376, IPD, Male, NONE,,55,5,11,6,0,2,1.5,0,28
+GSM2630973,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO61, IPD, Male, NONE,58,55,1,3,8,,1,1,,29
+GSM2630828,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3303, IPD, Male, NONE,,55,1,5,17,0,6,2.5,0,30
+GSM2631192,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO338, IPD, Female,,60,55,0,5, ND,32,2, ND,0, ND
+GSM2631144,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO304, IPD, Male, NONE,65,55,3,10,26,,1,2,, ND
+GSM2630822,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3074, IPD, Male, NONE,,56,1,7,15,0,0,1.5,0,0
+GSM2630998,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO107, IPD, Female, NONE,59,56,0,4,15,,1,1,,27
+GSM2631134,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO277, IPD, Male, NONE,59,56,2,12,,17,1,,1,28
+GSM2631183,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO310, IPD, Male, NONE,59,56,4,10,5,,0,1,,30
+GSM2630969,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO57, IPD, Male, NONE,64,56,1,2,16,,4,3,,30
+GSM2631296,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO298, IPD, Male, NONE,67,57,4,21,26,,9,2.5,,20
+GSM2631053,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO182, IPD, Male, NONE,73,57,4,27,48,,3,4,,22
+GSM2630941,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO11, IPD, Male, NONE,61,57,1,7,30,,0,2,,27
+GSM2630982,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO85, IPD, Male, NONE,62,57,2,8,,13,1,,2,29
+GSM2631271,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO77, IPD, Female, NONE,62,57,0,6,21,,3,2,,30
+GSM2630956,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO43, IPD, Male, NONE,71,58,4,22,,49,7,,4,17
+GSM2631008,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO120, IPD, Male, NONE,71,58,7,26,34,,8,4,,24
+GSM2630951,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO33, IPD, Male, NONE,63,58,1,4,16,,1,2,,25
+GSM2630957,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO44, IPD, Female, NONE,67,58,7,24,58,,9,4,,25
+GSM2631006,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO117, IPD, Male, NONE,60,58,1,4,11,,0,1,,28
+GSM2630959,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO46, IPD, Female, NONE,71,58,2,6,7,,3,1,,28
+GSM2630948,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO22, IPD, Female, NONE,67,58,0,19,22,,4,2,,30
+GSM2631148,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2761, IPD, Female, NONE,,59,0,0,15,0,0,9,0,0
+GSM2631007,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO118, IPD, Male, NONE,64,59,6,20,,46,0,,4,23
+GSM2630939,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO9, IPD, Female, NONE,65,59,5,3,9,,4,1,,30
+GSM2630970,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO58, IPD, Male, NONE,71,60,6,19,46,,7,3,,13
+GSM2631066,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO198, IPD, Male, NONE,64,60,3,10,27,,6,1.5,,18
+GSM2630967,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO54, IPD, Female, NONE,80,60,2,8,42,,4,3,,22
+GSM2631291,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO278, IPD, Male, NONE,63,60,1,5,11,,0,,1,25
+GSM2630981,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO75, IPD, Female, NONE,62,60,0,3,16,,0, ND, ND,25
+GSM2631115,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO250, IPD, Male, NONE,63,60,0,27,62,,8,3,,25
+GSM2630824,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3075, IPD, Female, NONE,,60,0,19,0,0,0,3,0,28
+GSM2631067,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO199, IPD, Female, NONE,61,60,2,9,18,,3,1,,29
+GSM2631107,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO242, IPD, Male, NONE,77,60,3,17,36,,5,2.5,,29
+GSM2631097,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO231, IPD, Female, NONE,66,60,2,4,22,,4, ND, ND,30
+GSM2631036,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO165, IPD, Female, NONE,63,61,8,11,,45,2,,1.5,18
+GSM2631186,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO314, IPD, Female, NONE,74,61,3,15,31,,6,2.5,,29
+GSM2630979,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO72, IPD, Female, NONE,65,61,1,6,7,,2,1,,30
+GSM2631262,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO30, IPD, Female, NONE,66,62,4,17,,46,4,,2.5,25
+GSM2630960,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO47, IPD, Female, NONE,70,62,6,8,14,,4,2,,27
+GSM2630942,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO13, IPD, Female, NONE,64,62,5,18,20,,6,2.5,,28
+GSM2630867,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3332, IPD, Male, NONE,,62,0,0,31,0,0,9,0,30
+GSM2631094,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO228, IPD, Male, NONE,66,62,2,11,,14,3,,1,30
+GSM2631266,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO36, IPD, Male, NONE,67,63,4,11,11,,3,1,,27
+GSM2631293,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO285, IPD, Male, NONE,66,63,0,3,2,,1, ND, ND,29
+GSM2631089,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO222, IPD, Female, NONE,63,63,4,6,10,,0,1,,29
+GSM2631184,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO311, IPD, Male, NONE,78,63,0,0, ND,36,0,,4, ND
+GSM2630815,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3083, IPD, Male, NONE,,64,1,9,29,0,1,2,0,0
+GSM2630763,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2677, IPD, Female, NONE,,64,0,2,15,0,0,9,0,0
+GSM2631220,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2837, IPD, Male, NONE,,64,0,0,42,0,0,9,0,0
+GSM2631265,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO35, IPD, Female, NONE,70,64,1,8,,17,4,,1.5,28
+GSM2631267,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO37, IPD, Female, NONE,69,64,1,19,29,,0,2,,28
+GSM2631268,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO41, IPD, Male, NONE,77,64,0,13,26,,1,2,,29
+GSM2630793,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3003, IPD, Male, NONE,,64,1,14,33,0,0,3,0,30
+GSM2630766,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2885, IPD, Male, NONE,,65,3,4,28,0,0,2,0,0
+GSM2630839,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3260, IPD, Male, NONE,,65,0,0,0,0,0,3,0,0
+GSM2631004,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO115, IPD, Female, NONE,67,65,0,4,14,,0,1.5,,23
+GSM2630991,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO97, IPD, Female, NONE,74,65,4,20,22,,11,3,,23
+GSM2631048,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO177, IPD, Female, NONE,70,65,2,5,14,,9,1,,24
+GSM2631090,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO224, IPD, Female, NONE,67,65,0,6,,14,2,,1,26
+GSM2631104,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO239, IPD, Male, NONE,69,65,4,23,,45,2,,3,26
+GSM2631259,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO26, IPD, Female, NONE,67,65,0,4,14,,0,1,, ND
+GSM2630760,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2540, IPD, Female, NONE,,66,0,0,18,0,0,9,0,0
+GSM2631051,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO180, IPD, Male, NONE,69,66,0,7,16,,0,1,,29
+GSM2630977,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO67, IPD, Female, NONE,71,66,3,11,17,,2,3,,30
+GSM2630829,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3073, IPD, Male, NONE,,67,6,17,0,0,0,3,0,0
+GSM2631264,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO34, IPD, Female, NONE,71,67,3,6,,33,2,,1.5,19
+GSM2630938,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO8, IPD, Male, NONE,72,67,0,14,23,,2,2,,24
+GSM2630966,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO53, IPD, Female, NONE,71,67,1,5,12,,0,2,,26
+GSM2631269,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO55, IPD, Male, NONE,70,67,2,4,29,,1, ND,,27
+GSM2631129,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO269, IPD, Male, NONE,71,67,0,6,18,,1,1,,29
+GSM2631013,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO134, IPD, Male, NONE,69,67,2,4,4,,0,1,,30
+GSM2630968,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO56, IPD, Male, NONE,70,68,0,3,31,,1,2,,25
+GSM2630893,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3378, IPD, Male, NONE,,68,4,6,15,0,0,2,0,28
+GSM2630804,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2833, IPD, Female, NONE,,68,2,7,19,0,2,1,0,29
+GSM2630995,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO101, IPD, Male, NONE,69,68,1,3,,19,0,,2,29
+GSM2631099,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO233, IPD, Female, NONE,78,68,3,12,,35,5, ND, ND,29
+GSM2631106,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO241, IPD, Female, NONE,69,68,0,7,21,,2,1,,30
+GSM2631146,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2616, IPD, Male, NONE,,69,4,9,16,0,0,9,0,0
+GSM2631187,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO315, IPD, Female, NONE,72,69,3,6,43,,1,3,,24
+GSM2631261,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO29, IPD, Female, NONE,74,69,4,3,20,,4,2.5,,29
+GSM2630950,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO31, IPD, Male, NONE,75,70,6,17,,46,2,,3,20
+GSM2631128,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO268, IPD, Male, NONE,71,70,6,9,10,,1,1,,22
+GSM2631182,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO309, IPD, Male, NONE,70,70,3,8,,21,0,,2,25
+GSM2631078,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO210, IPD, Male, NONE,73,70,2,5,9,,1,1,, ND
+GSM2631060,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO190, IPD, Male, NONE,76,72,3,10,21,,6,2.5,,24
+GSM2631189,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO320, IPD, Female, NONE,74,72,1,8,18,,0,2.5,,29
+GSM2630891,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3375, IPD, Male, NONE,,72,4,16,29,0,3,3,0,30
+GSM2630976,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO65, IPD, Female, NONE,75,73,2,4,24,,0,2.5,,24
+GSM2630911,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3473, IPD, Female, NONE,,74,3,10,32,0,0,3,0,22
+GSM2630856,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3328, IPD, Male, NONE,,75,0,0,0,0,0,9,0,0
+GSM2630813,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3099, IPD, Male, NONE,,76,1,8,23,0,1,2.5,0,0
+GSM2630827,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3070, IPD, Female, NONE,,76,0,11,27,0,0,3,0,0
+GSM2631035,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO164, IPD, Female, NONE,78,78,0,13,33,,1,1.5,,23
+GSM2630841,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3301, IPD, Male, NONE,,78,3,6,18,0,0,2,0,28
+GSM2630918,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3507, IPD,, NMF,,,0,0,0,0,0,0,0,0
+GSM2631249,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3731, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630762,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2884, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630817,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3201, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630826,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3196, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630895,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3381, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630915,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3484, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630838,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3203, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2630900,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3464, IPD, Female, NONE,,,0,0,0,0,0,0,0,0
+GSM2631224,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3208, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631244,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3712, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631245,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3713, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631246,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3714, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631247,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3716, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630794,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1451, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630870,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3336, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630890,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3452, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630901,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3455, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630902,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3456, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630904,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3458, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630764,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2177, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630781,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2528, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630791,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1370, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630862,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3331, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630898,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3454, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630903,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3457, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2630931,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3715, IPD, Male, NONE,,,0,0,0,0,0,0,0,0
+GSM2631150,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3675, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631151,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3676, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631155,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3674, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631156,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3681, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631157,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1341, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631160,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3684, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631169,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3655, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631154,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3680, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631164,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3682, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631166,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3666, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631168,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4028, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631170,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4029, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631178,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4031, IPD,,,,,0,0,0,0,0,0,0,0
+GSM2631019,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO144, IPD, Female, NONE,60,,3,3,,17,1,,2,26
+GSM2630886,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3373, IPD, Female, NONE,,,0,0,0,0,2,8,0,30
+GSM2630765,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2512, IPD, Male, NONE,,,0,4,0,0,0,9,0,30
+GSM2630831,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3263, MSA, Male, NONE,,51,0,0,0,0,0,9,0,0
+GSM2631315,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO360, MSA, Male,,66,60,0,28,,43,2,,4,
+GSM2630814,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3199, MSA, Female, NONE,,64,1,16,35,0,6,3,0,23
+GSM2630776,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2647, MSA, Male, NONE,,68,0,0,46,0,0,9,0,0
+GSM2631204,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO355, MSA, Female,,75,71,5,28,,64,1,,5,
+GSM2630943,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO14, MSA, Male, NONE,76,72,6,25,43,,0,4,,24
+GSM2631199,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO345, MSA, Female,,81,74,1,26,,55,1,,5,27
+GSM2631299,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4021, MSA,,,,,0,0,0,0,0,0,0,0
+GSM2631223,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3078, PD_DEMENTIA, Male, NONE,,69,1,7,26,0,0,3,0,20
+GSM2631233,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3506, PD_DEMENTIA, Male, NONE,,,0,0,2,0,0,8,0,29
+GSM2631313,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO357, PSP, Male,,63,52,,,,26,,,2.5,
+GSM2630808,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2582, PSP, Female, NONE,,53,0,0,37,0,0,9,0,0
+GSM2631314,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, TRO358, PSP, Male,,76,66,36,,75,,0,5,,
+GSM2630836,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3097, PSP, Female, NONE,,72,2,15,31,0,0,3,0,0
+GSM2631216,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L2585, PSP, Female, NONE,,72,0,0,0,0,0,9,0,0
+GSM2630889,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3374, PSP,, NONE,,,0,0,0,0,0,0,0,0
+GSM2631174,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L4032, PSP,,,,,0,0,0,0,0,0,0,0
+GSM2630894,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L3379, PSP, Male, NONE,,,0,0,2,0,1,8,0,29
+GSM2630792,May 17 2017,May 20 2017,RNA,Whole blood,Homo sapiens, L1500, Vascular dementia,, NONE,,,0,0,0,0,0,0,0,0
